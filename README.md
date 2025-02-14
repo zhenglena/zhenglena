@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lena!</h1>
-<h3 align="center">A passionate frontend developer from Chicago.</h3>
+<h3 align="center">A passionate backend developer from Chicago.</h3>
 
-- 🔭 I’m currently working on [Ducklings](https://github.com/BloomTechBackend/bd-team-project-lena)
+- 🔭 I’m currently working on [Bloom Camp](https://github.com/zhenglena/BloomCodeCamp-be-a-starter)
 
 - 📫 How to reach me **zhenglena@gmail.com**
 
